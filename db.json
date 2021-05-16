@@ -1,84 +1,41 @@
-{"seller": [
-    
-        "businessDetails": {
-            "logo": "http://dummyimage.com/143x212.png/cc0000/ffffff",
-            "companyName": "DabZ",
-            "companyAddress": {
-                "addressLine1": "41 Sachs Parkway",
-                "addressLine2": "35859 Glendale Junction",
-                "city": "Sadar Bazar",
-                "state": "Uttar Pradesh",
-                "pincode": "281002",
-                "country": "India"
-            }
-    },      
-        "businessDetails": {
-            "logo": "http://dummyimage.com/109x213.png/dddddd/000000",
-            "companyName": "Realcube",
-            "companyAddress": {
-                "addressLine1": "7 Mendota Terrace",
-                "addressLine2": null,
-                "city": "Sadar Bazar",
-                "state": "Uttar Pradesh",
-                "pincode": "281002",
-                "country": "India"
-            }
-                    
+[
+    {
+        "id" : 1,
+        "title" : "post 1".
+        "discription" : "discription 1"
     },
-    
-        "businessDetails": {
-            "logo": "http://dummyimage.com/322x217.png/cc0000/ffffff",
-            "companyName": "Jaxbean",
-            "companyAddress": {
-                "addressLine1": "4 Pierstorff Trail",
-                "addressLine2": "93 Schmedeman Drive",
-                "city": "Agraharam",
-                "state": "Andhra Pradesh",
-                "pincode": "532663",
-                "country": "India"
-         }
+     {
+        "id" : 1,
+        "title" : "post 1".
+        "discription" : "discription 1"
     },
-    
-        "businessDetails": {
-            "logo": "http://dummyimage.com/192x354.png/ff4444/ffffff",
-            "companyName": "Oodoo",
-            "companyAddress": {
-                "addressLine1": "4 Lake View Street",
-                "addressLine2": null,
-                "city": "R S",
-                "state": "Gujarat",
-                "pincode": "395003",
-                "country": "India"
-           
-        }
+     {
+        "id" : 2,
+        "title" : "post 2".
+        "discription" : "discription 2"
     },
-   
-        "businessDetails": {
-            "logo": "http://dummyimage.com/288x304.png/cc0000/ffffff",
-            "companyName": "Realcube",
-            "companyAddress": {
-                "addressLine1": "8010 Fair Oaks Court",
-                "addressLine2": "221 Tomscot Center",
-                "city": "R S",
-                "state": "Gujarat",
-                "pincode": "395003",
-                "country": "India"
-            
-        }
+     {
+        "id" : 3,
+        "title" : "post 3".
+        "discription" : "discription 3"
     },
-    
-        "businessDetails": {
-            "logo": "http://dummyimage.com/452x161.png/ff4444/ffffff",
-            "companyName": "Flipstorm",
-            "companyAddress": {
-                "addressLine1": "05 Schiller Avenue",
-                "addressLine2": "057 Delladonna Street",
-                "city": "Agraharam",
-                "state": "Andhra Pradesh",
-                "pincode": "532663",
-                "country": "India"
-            
-        }
-    }]
-};
-    
+     {
+        "id" : 4,
+        "title" : "post 4".
+        "discription" : "discription 4"
+    },
+     {
+        "id" : 5,
+        "title" : "post 5".
+        "discription" : "discription 5"
+    },
+     {
+        "id" : 6,
+        "title" : "post 6".
+        "discription" : "discription 6"
+    },
+     {
+        "id" : 7,
+        "title" : "post 7".
+        "discription" : "discription 7"
+    },
