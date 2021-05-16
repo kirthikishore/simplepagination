@@ -28,15 +28,5 @@
         "id" : 5,
         "title" : "post 5",
         "discription" : "discription 5"
-    },
-     {
-        "id" : 6,
-        "title" : "post 6",
-        "discription" : "discription 6"
-    },
-     {
-        "id" : 7,
-        "title" : "post 7",
-        "discription" : "discription 7"
     }
 ]
