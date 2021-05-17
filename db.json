@@ -12,9 +12,11 @@
          {"id" : 2, "body" : "comment 2", "postID" : 2},
          {"id" : 3, "body" : "comment 3", "postID" : 3}
         ],
-    "profile" : {
-        "name" : "profile 1"
-    }
+    "profile" : [
+        {"name" : 1, "profile 1"},
+        {"name" : 2, "Profile 2"}
+        
+    ]
 }
         
    
