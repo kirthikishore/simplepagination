@@ -1,27 +1,23 @@
-[
-    {
-        "id" : 1,
-        "title" : "post 1",
-        "discription" : "this is discription 1"
-    },
-     {
-        "id" : 2,
-        "title" : "post 2",
-        "discription" : "this is discription 2"
-    },
-     {
-        "id" : 3,
-        "title" : "post 3",
-        "discription" : "this is discription 3"
-    },
-     {
-        "id" : 4,
-        "title" : "post 4",
-        "discription" : "this is discription 4"
-    },
-     {
-        "id" : 5,
-        "title" : "post 5",
-        "discription" : "this is discription 5"
+{
+    "posts" : [
+        { "id" : 1, "title" : "post 1", "discription" : "this is discription 1"},
+        { "id" : 2, "title" : "post 2", "discription" : "this is discription 2"},
+        { "id" : 3, "title" : "post 3", "discription" : "this is discription 3"},
+        { "id" : 4, "title" : "post 4", "discription" : "this is discription 4"},
+        { "id" : 5, "title" : "post 5", "discription" : "this is discription 5"},
+        { "id" : 6, "title" : "post 6", "discription" : "this is discription 6"},
+     ], 
+    "comments" : [
+         {"id" : 1, "body" : "comment 1", "postID" : 1},
+         {"id" : 2, "body" : "comment 2", "postID" : 2},
+         {"id" : 3, "body" : "comment 3", "postID" : 3},
+        ],
+    "profile" : {
+        "name" : "profile 1"
     }
-]
+}
+        
+   
+        
+       
+     
